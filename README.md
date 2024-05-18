@@ -1,0 +1,2 @@
+# sual
+global page
